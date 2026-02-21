@@ -1,1 +1,1 @@
-console.log("Start my backend");
+console.log("Start my backend with nodemon");
